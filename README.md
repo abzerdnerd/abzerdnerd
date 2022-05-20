@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abzerdnerd
-- 👀 I’m interested in ... smart contracts and apps and dApps
+- 👀 I’m interested in ... smart contracts, apps and dApps
 - 🌱 I’m currently learning ... about Algorand Sandbox, Python and Reach
 - 💞️ I’m looking to collaborate on ... I don't know yet
 - 📫 How to reach me ... github
